@@ -1,0 +1,1 @@
+{"mappings":"AAAA,KAAK,CAAC,SAAS,GAAG,KAAK,CAAC,GAAG,CAAC,CAAkC","sources":["src/app.js"],"sourcesContent":["const countries = axios.get(\"https://restcountries.com/v2/all\");"],"names":[],"version":3,"file":"index.8f215b5e.js.map","sourceRoot":"/__parcel_source_root/"}
